@@ -7,10 +7,10 @@
   Escenario:  verificar que en una publicacion gratuita permita la publicacion de 20 fotos exitosa
     Dado que como usuario de CarroYa me encuentro realizando publicaciones
     Cuando realizo una publicacion 20 fotos de calidad
-    Entonces verico que la publicacion se realizo exitosamente
+    Entonces verifico que la publicacion se realizo exitosamente
 
 
     Escenario: verificar que en una publicacion gratuita NO permita la publicacion de mas de 20 fotos
       Dado que como usuario de CarroYa me encuentro realizando publicaciones
       Cuando realizo una publicacion 21 fotos de calidad
-      Entonces verico que la publicacion se realizo exitosamente
+      Entonces verifico que la publicacion se realizo exitosamente
